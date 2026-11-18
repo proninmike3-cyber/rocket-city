@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 190" role="img" aria-labelledby="title">
+<title id="title">Rocket City Brewery — эмблема ракеты в бокале, адаптированная для цифрового макета</title>
+<g fill="none" stroke="#fff" stroke-width="7" stroke-linejoin="round" stroke-linecap="round">
+  <path d="M31 38h118l-10 134H42L31 38Z"/>
+  <path d="M32 38h116c-2-14-11-18-21-15-6-16-26-19-37-9-12-12-37-7-39 10-9-2-17 1-19 14Z" fill="#fff" stroke-width="0"/>
+  <path d="M88 61C67 78 65 103 65 150l21-16h8l22 16c0-47-6-75-28-89Z" fill="#fff" stroke-width="0"/>
+  <path d="m65 144-14 12v9l28-15m37-6 14 12v9l-28-15" stroke-width="5"/>
+</g>
+<g fill="#111727"><circle cx="90" cy="91" r="5"/><circle cx="90" cy="112" r="8"/><path d="M81 147v-7c0-12 18-12 18 0v7Z"/></g>
+<g fill="#fff"><circle cx="53" cy="74" r="2.5"/><circle cx="129" cy="76" r="2.5"/><circle cx="49" cy="106" r="4"/><circle cx="132" cy="115" r="3"/><circle cx="53" cy="138" r="2"/><circle cx="125" cy="143" r="2"/></g>
+</svg>
